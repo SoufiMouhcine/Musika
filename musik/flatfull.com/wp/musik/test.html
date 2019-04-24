@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-US" class="app">
+<head>
+</head>
+<body>
+          <div id="playlist-new">
+            <h4 class="m-b-md">Create new</h4>
+            <div class="form-group">
+              <label>Playlist title</label>
+              <input type="text" class="form-control input-sm text-md" id="playlist-new-title">
+            </div>
+            <button type="button" class="btn btn-sm btn-default m-b-md font-bold " id="playlist-new-save">Save</button>
+          </div>
+
+          <div id="playlist-error" class="hide">
+            <h4>Someting went wrong, try later</h4>
+          </div>
+        </div>
+        <div class="hide" id="playlist-list-item">
+          <div class="playlist-list-item padder-v b-b clearfix">
+            <div class="pull-right m-t-xs">
+              <button class="btn btn-sm btn-default" id="playlist-add">Add to playlist</button>
+              <button class="btn btn-sm " id="playlist-del" style="display:none">Added</button>
+              <button class="btn btn-sm btn-link" id="playlist-remove" title="Remove"><i class="fa fa-remove"></i></button>
+            </div>
+            <a href class="pull-left m-r" id="playlist-thumb"><img width="40"></a>
+            <div class="clear">
+              <a href id="playlist-title" class="font-bold"></a>
+              <div id="playlist-count" class="text-muted"></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+<ul class="nav text-sm"> <li class="hidden-nav-xs padder m-t m-b-sm text-xs text-muted"> <span class="pull-right"><a href="#"><i class="icon-plus i-lg"></i></a></span> Playlist </li> <li> <a href="#"> <i class="icon-music-tone icon"></i> </a> </li> </ul>
+
+</body>
+
+</html>

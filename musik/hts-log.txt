@@ -1,0 +1,185 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Mar 2019 19:49:36 at http://flatfull.com/wp/musik/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://flatfull.com/wp/musik/ -O1 "E:\templates\musik" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:51:22	Error: 	"Method Not Allowed" (405) at link flatfull.com/wp/musik/xmlrpc.php (from flatfull.com/wp/musik/)
+19:52:01	Error: 	"Bad Request" (400) at link flatfull.com/wp/musik/wp-admin/admin-ajax.php (from flatfull.com/wp/musik/)
+19:52:03	Warning: 	Link flatfull.com/wp/musik/index.php/checkout/ not scanned (follow robots meta tag)
+19:59:01	Warning: 	File not parsed, looks like binary: flatfull.com/wp/musik/wp-content/themes/musiks/assets/fonts/fontawesome-webfont.woff2?v=4.4.0
+19:59:01	Error: 	"Not Found" (404) at link flatfull.com/wp/musik/wp-content/themes/musiks/assets/fonts/glyphicons-halflings-regular.eot (from flatfull.com/wp/musik/wp-content/themes/musiks/assets/css/bootstrap.css?ver=4.9.9)
+19:59:01	Error: 	"Not Found" (404) at link flatfull.com/wp/musik/wp-content/themes/musiks/assets/fonts/glyphicons-halflings-regular.eot? (from flatfull.com/wp/musik/wp-content/themes/musiks/assets/css/bootstrap.css?ver=4.9.9)
+19:59:01	Error: 	"Not Found" (404) at link flatfull.com/wp/musik/wp-content/themes/musiks/assets/fonts/glyphicons-halflings-regular.woff2 (from flatfull.com/wp/musik/wp-content/themes/musiks/assets/css/bootstrap.css?ver=4.9.9)
+19:59:01	Error: 	"Not Found" (404) at link flatfull.com/wp/musik/wp-content/themes/musiks/assets/fonts/glyphicons-halflings-regular.woff (from flatfull.com/wp/musik/wp-content/themes/musiks/assets/css/bootstrap.css?ver=4.9.9)
+19:59:01	Error: 	"Not Found" (404) at link flatfull.com/wp/musik/wp-content/themes/musiks/assets/fonts/glyphicons-halflings-regular.ttf (from flatfull.com/wp/musik/wp-content/themes/musiks/assets/css/bootstrap.css?ver=4.9.9)
+19:59:01	Error: 	"Not Found" (404) at link flatfull.com/wp/musik/wp-content/themes/musiks/assets/fonts/glyphicons-halflings-regular.svg (from flatfull.com/wp/musik/wp-content/themes/musiks/assets/css/bootstrap.css?ver=4.9.9)
+19:59:01	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=5
+19:59:01	Warning: 	File has moved from flatfull.com/wp/musik/?p=5 to http://flatfull.com/wp/musik/index.php/checkout/
+19:59:01	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=143
+19:59:01	Warning: 	File has moved from flatfull.com/wp/musik/?p=143 to http://flatfull.com/wp/musik/index.php/genres/
+19:59:14	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=145
+19:59:14	Warning: 	File has moved from flatfull.com/wp/musik/?p=145 to http://flatfull.com/wp/musik/index.php/albums/
+19:59:14	Error: 	"Not Found" (404) at link flatfull.com/wp/musik/index.php/artists/feed/ (from flatfull.com/wp/musik/index.php/artists/)
+19:59:14	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=147
+19:59:14	Warning: 	File has moved from flatfull.com/wp/musik/?p=147 to http://flatfull.com/wp/musik/index.php/artists/
+20:02:55	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=983
+20:02:55	Warning: 	File has moved from flatfull.com/wp/musik/?p=983 to http://flatfull.com/wp/musik/index.php/members-2/
+20:02:55	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=989
+20:02:55	Warning: 	File has moved from flatfull.com/wp/musik/?p=989 to http://flatfull.com/wp/musik/index.php/groups/
+20:02:55	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=981
+20:02:55	Warning: 	File has moved from flatfull.com/wp/musik/?p=981 to http://flatfull.com/wp/musik/index.php/activity-2/
+20:03:11	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=123
+20:03:11	Warning: 	File has moved from flatfull.com/wp/musik/?p=123 to http://flatfull.com/wp/musik/index.php/fullwidth/
+20:03:11	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=293
+20:03:11	Warning: 	File has moved from flatfull.com/wp/musik/?p=293 to http://flatfull.com/wp/musik/index.php/page-with-sidebar/
+20:03:11	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=127
+20:03:11	Warning: 	File has moved from flatfull.com/wp/musik/?p=127 to http://flatfull.com/wp/musik/index.php/player/
+20:03:11	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=404
+20:03:11	Warning: 	File has moved from flatfull.com/wp/musik/?p=404 to http://flatfull.com/wp/musik/index.php/sidebar-player/
+20:03:17	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=219
+20:03:17	Warning: 	File has moved from flatfull.com/wp/musik/?p=219 to http://flatfull.com/wp/musik/index.php/music/bubble/
+20:03:26	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=181
+20:03:26	Warning: 	File has moved from flatfull.com/wp/musik/?p=181 to http://flatfull.com/wp/musik/index.php/music/lismore/
+20:03:26	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=632
+20:03:26	Warning: 	File has moved from flatfull.com/wp/musik/?p=632 to http://flatfull.com/wp/musik/index.php/music/soundcloud/
+20:03:26	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=615
+20:03:26	Warning: 	File has moved from flatfull.com/wp/musik/?p=615 to http://flatfull.com/wp/musik/index.php/music/tempered-song/
+20:03:28	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=217
+20:03:28	Warning: 	File has moved from flatfull.com/wp/musik/?p=217 to http://flatfull.com/wp/musik/index.php/music/beside-me/
+20:03:28	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=237
+20:03:28	Warning: 	File has moved from flatfull.com/wp/musik/?p=237 to http://flatfull.com/wp/musik/index.php/music/cro-magnon-man/
+20:03:28	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=591
+20:03:28	Warning: 	File has moved from flatfull.com/wp/musik/?p=591 to http://flatfull.com/wp/musik/index.php/music/external-music/
+20:03:28	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=235
+20:03:28	Warning: 	File has moved from flatfull.com/wp/musik/?p=235 to http://flatfull.com/wp/musik/index.php/music/your-face/
+20:03:28	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=593
+20:03:28	Warning: 	File has moved from flatfull.com/wp/musik/?p=593 to http://flatfull.com/wp/musik/index.php/music/radio-station/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=215
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=215 to http://flatfull.com/wp/musik/index.php/music/the-separation/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=118
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=118 to http://flatfull.com/wp/musik/index.php/music/hidden/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=232
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=232 to http://flatfull.com/wp/musik/index.php/music/cyber-sonnet/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=417
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=417 to http://flatfull.com/wp/musik/index.php/music/top-board-june/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=415
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=415 to http://flatfull.com/wp/musik/index.php/music/new-album/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=413
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=413 to http://flatfull.com/wp/musik/index.php/music/bundle/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=411
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=411 to http://flatfull.com/wp/musik/index.php/music/free-album/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=382
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=382 to http://flatfull.com/wp/musik/index.php/music/miaow-2005/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=380
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=380 to http://flatfull.com/wp/musik/index.php/music/miaow-2004/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=244
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=244 to http://flatfull.com/wp/musik/index.php/music/tsp-bundle/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=239
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/?p=239 to http://flatfull.com/wp/musik/index.php/music/miaow-2003/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/index.php/genres/page/1/
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/index.php/genres/page/1/ to http://flatfull.com/wp/musik/index.php/genres/
+20:03:29	Warning: 	Moved Permanently for flatfull.com/wp/musik/index.php/artists/page/1/
+20:03:29	Warning: 	File has moved from flatfull.com/wp/musik/index.php/artists/page/1/ to http://flatfull.com/wp/musik/index.php/artists/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=683
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=683 to http://flatfull.com/wp/musik/index.php/2015/08/12/sunset/
+20:03:33	Error: 	"Not Found" (404) at link flatfull.com/wp/music/wp-content/uploads/2015/07/m44.jpg (from flatfull.com/wp/musik/index.php/2015/08/12/sunset/)
+20:03:33	Error: 	"Not Found" (404) at link flatfull.com/wp/music/wp-content/uploads/2015/07/m44-300x150.jpg (from flatfull.com/wp/musik/index.php/2015/08/12/sunset/)
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=681
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=681 to http://flatfull.com/wp/musik/index.php/2015/08/12/lifestyle/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=679
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=679 to http://flatfull.com/wp/musik/index.php/2015/08/12/back/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=677
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=677 to http://flatfull.com/wp/musik/index.php/2015/08/12/outside/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=675
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=675 to http://flatfull.com/wp/musik/index.php/2015/08/12/away/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=673
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=673 to http://flatfull.com/wp/musik/index.php/2015/08/12/fancy/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=671
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=671 to http://flatfull.com/wp/musik/index.php/2015/08/12/rose/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=669
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=669 to http://flatfull.com/wp/musik/index.php/2015/08/12/down-2/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=667
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=667 to http://flatfull.com/wp/musik/index.php/2015/08/12/landscape/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=665
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=665 to http://flatfull.com/wp/musik/index.php/2015/08/12/travel/
+20:03:33	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=663
+20:03:33	Warning: 	File has moved from flatfull.com/wp/musik/?p=663 to http://flatfull.com/wp/musik/index.php/2015/08/12/warm/
+20:03:38	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=661
+20:03:38	Warning: 	File has moved from flatfull.com/wp/musik/?p=661 to http://flatfull.com/wp/musik/index.php/2015/08/12/fireworks/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=1
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=1 to http://flatfull.com/wp/musik/index.php/2018/12/08/hello-world/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=723
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=723 to http://flatfull.com/wp/musik/index.php/2015/08/13/taylor-swift-shake-it-off/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=721
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=721 to http://flatfull.com/wp/musik/index.php/2015/08/13/love-me-like-you-do-ellie-goulding-fifty-shades-of-grey-soundtrack-hq/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=719
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=719 to http://flatfull.com/wp/musik/index.php/2015/08/13/jessie-j-flashlight-from-pitch-perfect-2/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=717
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=717 to http://flatfull.com/wp/musik/index.php/2015/08/13/sol-aint-gon-stop/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=714
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=714 to http://flatfull.com/wp/musik/index.php/2015/08/13/eminem-no-love-explicit-version-ft-lil-wayne/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=712
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=712 to http://flatfull.com/wp/musik/index.php/2015/08/13/lil-wayne-mirror-ft-bruno-mars/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=710
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=710 to http://flatfull.com/wp/musik/index.php/2015/08/13/bruno-mars-just-the-way-you-are/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=708
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=708 to http://flatfull.com/wp/musik/index.php/2015/08/13/maroon-5-sugar/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=706
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=706 to http://flatfull.com/wp/musik/index.php/2015/08/13/mark-ronson-uptown-funk-ft-bruno-mars/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=702
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=702 to http://flatfull.com/wp/musik/index.php/2015/08/12/omi-cheerleader-felix-jaehn-remix-official-video/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=699
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=699 to http://flatfull.com/wp/musik/index.php/2015/08/12/taylor-swift-bad-blood-ft-kendrick-lamar/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=390
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=390 to http://flatfull.com/wp/musik/index.php/2015/07/13/music-wordpress-theme/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=388
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=388 to http://flatfull.com/wp/musik/index.php/2015/07/13/life-style/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=386
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=386 to http://flatfull.com/wp/musik/index.php/2015/07/13/audio-theme/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=291
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=291 to http://flatfull.com/wp/musik/index.php/2015/07/10/bootstrap-3-what-you-need-to-know/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=425
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=425 to http://flatfull.com/wp/musik/index.php/2015/06/14/hello-world-2-2/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=226
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=226 to http://flatfull.com/wp/musik/index.php/music/stirring-of-a-fool/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=230
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=230 to http://flatfull.com/wp/musik/index.php/music/the-ice/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=228
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=228 to http://flatfull.com/wp/musik/index.php/music/partir/
+20:04:08	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=179
+20:04:08	Warning: 	File has moved from flatfull.com/wp/musik/?p=179 to http://flatfull.com/wp/musik/index.php/music/lentement/
+20:04:09	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=693
+20:04:09	Warning: 	File has moved from flatfull.com/wp/musik/?p=693 to http://flatfull.com/wp/musik/index.php/2015/08/12/songs-of-the-summer-2015/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=659
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=659 to http://flatfull.com/wp/musik/index.php/2015/08/12/hope/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=657
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=657 to http://flatfull.com/wp/musik/index.php/2015/08/12/the-setting-sun/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=654
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=654 to http://flatfull.com/wp/musik/index.php/2015/08/12/masonry/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=651
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=651 to http://flatfull.com/wp/musik/index.php/2015/08/12/water-house/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=649
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=649 to http://flatfull.com/wp/musik/index.php/2015/08/12/forest/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=647
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=647 to http://flatfull.com/wp/musik/index.php/2015/08/12/endless/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=645
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=645 to http://flatfull.com/wp/musik/index.php/2015/08/12/nofeatures/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=643
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=643 to http://flatfull.com/wp/musik/index.php/2015/08/12/nature/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=641
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=641 to http://flatfull.com/wp/musik/index.php/2015/08/12/beauty/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=638
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=638 to http://flatfull.com/wp/musik/index.php/2015/08/12/on-the-road/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=636
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=636 to http://flatfull.com/wp/musik/index.php/2015/08/12/climb-up/
+20:04:10	Warning: 	Moved Permanently for flatfull.com/wp/musik/?p=982
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/?p=982 to http://flatfull.com/wp/musik/index.php/2015/07/13/hello-world-2/
+20:04:10	Warning: 	Found for flatfull.com/wp/musik/wp-admin/
+20:04:10	Warning: 	File has moved from flatfull.com/wp/musik/wp-admin/ to http://flatfull.com/wp/musik/wp-login.php?redirect_to=http%3A%2F%2Fflatfull.com%2Fwp%2Fmusik%2Fwp-admin%2F&reauth=1
+20:04:12	Error: 	"Not Found" (404) at link flatfull.com/wp/musik/wp-admin/&reauth=1 (from flatfull.com/wp/musik/wp-login.php?redirect_to=http%3A%2F%2Fflatfull.com%2Fwp%2Fmusik%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 36 seconds : 683 links scanned, 590 files written (22623605 bytes overall) [15973332 bytes received at 18234 bytes/sec], 9089999 bytes transferred using HTTP compression in 389 files, ratio 22%, 9.4 requests per connection
+(12 errors, 162 warnings, 0 messages)
